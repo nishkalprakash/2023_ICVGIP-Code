@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+
+# Created on Tue April 2 19:27:00 2023
+
+# Basic packages
+numpy
+scipy
+scikit-learn
+matplotlib
+jupyter
+ipython
+ipython-kernel
+
+# Deep learning packages
+#gensim
+#tensorflow-gpu
+#tensorflow
+
+
