@@ -9,7 +9,8 @@ scikit-learn
 matplotlib
 jupyter
 ipython
-ipython-kernel
+# ipython-kernel
+# opencv-python
 
 # Deep learning packages
 #gensim
